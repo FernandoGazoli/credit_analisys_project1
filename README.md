@@ -1,4 +1,5 @@
 
+### Link do repositório: https://www.kaggle.com/datasets/parisrohan/credit-score-classification
 
 * **Dicionário de dados:** Uma descrição detalhada de cada coluna (feature) presente no dataset.
 * **Explicação do dataset:** Uma breve descrição do que o dataset representa e qual o seu objetivo.
@@ -50,7 +51,6 @@ O dataset "credit_score-classification" do Kaggle contém informações detalhad
 
 A variável `credit_score` será utilizada como a **variável alvo** (target variable) em nosso modelo de machine learning. Isso significa que o modelo será treinado para prever o valor da pontuação de crédito para um novo cliente, com base nos valores das outras variáveis (features).
 
-**Possíveis abordagens:**
 
 * **Regressão:** Se o objetivo for prever um valor numérico preciso para a pontuação de crédito, utilizaremos algoritmos de regressão como Regressão Linear, Random Forest Regressor ou XGBoost Regressor.
 * **Classificação:** Se o objetivo for classificar os clientes em diferentes faixas de pontuação de crédito (ex: baixa, média, alta), utilizaremos algoritmos de classificação como Árvore de Decisão, Random Forest Classifier ou XGBoost Classifier.
