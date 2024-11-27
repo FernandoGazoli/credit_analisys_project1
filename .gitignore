@@ -1,0 +1,11 @@
+# Ignorar todos os arquivos CSV
+*.csv
+
+# Garantir que arquivos HTML sejam incluídos
+!*.html
+
+# Ignorar outras pastas ou arquivos temporários
+node_modules/
+dist/
+*.log
+
